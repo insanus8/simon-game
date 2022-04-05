@@ -1,5 +1,7 @@
 # simon-game
 
+## https://insanus8.github.io/simon-game/
+
 ## Project setup
 ```
 npm install
